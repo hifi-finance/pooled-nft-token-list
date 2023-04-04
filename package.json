@@ -1,0 +1,37 @@
+{
+  "name": "@pooled-nft/token-list",
+  "version": "1.0.0",
+  "description": "The Pooled NFT token list",
+  "main": "build/pooled-nft.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/pooled-nft.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/pooled-nft.tokenlist.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hifi-finance/pooled-nft-token-list.git"
+  },
+  "keywords": [
+    "pooled-nft",
+    "pooled nft",
+    "token",
+    "list"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/hifi-finance/pooled-nft-token-list/issues"
+  },
+  "homepage": "https://github.com/hifi-finance/pooled-nft-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.29",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
