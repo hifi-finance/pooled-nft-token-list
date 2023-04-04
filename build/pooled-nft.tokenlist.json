@@ -1,0 +1,34 @@
+{
+  "name": "Pooled NFT",
+  "timestamp": "2023-04-04T19:12:22.260Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQx8jsipAFzkhrqjLn7yVzSm4AT6wyToV1DHNPeikHp94",
+  "keywords": [
+    "pooled nft",
+    "pooled",
+    "nft"
+  ],
+  "tokens": [
+    {
+      "name": "PORSCHE 911 Pool",
+      "address": "0x3C25c9cF577d5129ea5bC46970a905044895986d",
+      "symbol": "911p",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0xccdf1373040d9ca4b5be1392d1945c1dae4a862c"
+    },
+    {
+      "name": "Pawn Bots Pool",
+      "address": "0xd1557677fFE0a6741A652D53b86C63C0B2f503aa",
+      "symbol": "BOTSp",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0x28F0521c77923F107E29a5502a5a1152517F9000"
+    }
+  ]
+}
