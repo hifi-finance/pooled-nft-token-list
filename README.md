@@ -1,7 +1,6 @@
 # @pooled-nft/token-list
 
 [![Tests](https://github.com/hifi-finance/pooled-nft-token-list/workflows/Tests/badge.svg)](https://github.com/hifi-finance/pooled-nft-token-list/actions?query=workflow%3ATests)
-[![npm](https://img.shields.io/npm/v/@hifi-finance/pooled-nft-token-list)](https://unpkg.com/@hifi-finance/pooled-nft-token-list@latest/)
 
 This GitHub repo contains the default token list used in the Pooled NFT interface.
 
