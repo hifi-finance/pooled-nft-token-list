@@ -1,6 +1,6 @@
 {
   "name": "Pooled NFT",
-  "timestamp": "2023-04-04T19:12:22.260Z",
+  "timestamp": "2023-04-04T21:40:43.391Z",
   "version": {
     "major": 1,
     "minor": 0,
@@ -29,6 +29,54 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0x28F0521c77923F107E29a5502a5a1152517F9000"
+    },
+    {
+      "name": "RFOX VALT CitiXens Pool",
+      "address": "0xA420D786B5720cc0dc90703B578A33E8f12385d6",
+      "symbol": "CXp",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0xAA7fdA738f6c08E4C3B8a178EC09885bC6044861"
+    },
+    {
+      "name": "DAPE Pool",
+      "address": "0xcD9C438befE7d30075e0dFF27E889dfa4DB64269",
+      "symbol": "DAPEp",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0xAcecB5D0B8C1B74a8745733dBE458a1546e32096"
+    },
+    {
+      "name": "tiny dinos Pool",
+      "address": "0xAdf44a4937cA2e7BF6cC1056992794CDb97AB266",
+      "symbol": "dinop",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0xd9b78A2F1dAFc8Bb9c60961790d2beefEBEE56f4"
+    },
+    {
+      "name": "Katatonik Pool",
+      "address": "0xbCeaa72cd2f66D964ddB706dF77d766f89611147",
+      "symbol": "KATSp",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0x6a48A272210eaA205c279e1c862f87875C623ae2"
+    },
+    {
+      "name": "Legend-X Pool",
+      "address": "0xb294e91C2c0C141B4bd136b7b748b3b3b7E71B93",
+      "symbol": "LEGENDXp",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0xd433F1601574B2288c32E60cCD2423384fCFd699"
+    },
+    {
+      "name": "NFTeamsJerseys Pool",
+      "address": "0x257f9CdD6eb6E66953Fd61fbf94EAb280570B165",
+      "symbol": "NFTeamsJerseysp",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://us-central1-wnft-development.cloudfunctions.net/getIcon?contract_address=0xcDa9E0c699c04D0032F809Ad3D417cE774af7bD5"
     }
   ]
 }
