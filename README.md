@@ -6,12 +6,30 @@ This GitHub repo contains the default token list used in the Pooled NFT interfac
 
 ## Development
 
-To start development, clone the repo and install the dependencies with Yarn.
+### Prerequisites
 
-```sh
-git clone https://github.com/hifi-finance/pooled-nft-token-list.git
-cd pooled-nft-token-list/
-yarn install
+- NVM
+- Yarn package manager
+
+### Set Up
+
+1. Clone the repository:
+
+```bash
+$ git clone https://github.com/hifi-finance/pooled-nft-token-list.git
+$ cd pooled-nft-token-list
+```
+
+2. Set the version of Node to use locally within the project:
+
+```bash
+$ nvm use
+```
+
+3. Install the dependencies with Yarn:
+
+```bash
+$ yarn install
 ```
 
 The repo includes the following scripts:
